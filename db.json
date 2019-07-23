@@ -1,6 +1,6 @@
 {
   "posts": [
     { "id": 1, "title": "My first post" },
-    { "id": 1, "title": "Create post api" }
+    { "id": 2, "title": "Create post api" }
   ]
 }
