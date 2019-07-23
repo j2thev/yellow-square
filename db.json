@@ -1,6 +1,6 @@
 {
-  "tasks": [
-    { "id": 1, "title": "My first task" },
+  "posts": [
+    { "id": 1, "title": "My first post" },
     { "id": 1, "title": "Create post api" }
   ]
 }
